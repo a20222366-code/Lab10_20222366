@@ -1,0 +1,39 @@
+#perdiz {
+    display: grid;
+    width: fit-content;
+}
+
+.celda {
+    width: 40px;
+    height: 40px;
+    background-color: lightblue;
+    border: 1px solid white;
+    box-sizing: border-box;
+}
+
+.cero {
+    background-color: #FFFFFF;
+}
+
+.uno {
+    background-color: #22C55E;
+}
+
+.dos {
+    background-color: #FACC15;
+}
+
+.tres {
+    background-color: #FB923C;
+}
+
+.cuatro {
+    background-color: #EF4444;
+}
+
+.cinco {
+    background-color: #991B1B;
+}
+
+
+
